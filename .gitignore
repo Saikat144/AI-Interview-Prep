@@ -40,6 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-app/prepwise-11f20-firebase-adminsdk-fbsvc-9e135405cb.json
+prepwise2-81f6c-firebase-adminsdk-fbsvc-b1baea5456.json
 
 firebase/client.ts
