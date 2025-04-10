@@ -43,3 +43,6 @@ next-env.d.ts
 prepwise2-81f6c-firebase-adminsdk-fbsvc-b1baea5456.json
 
 firebase/client.ts
+
+*.json
+.env.local
